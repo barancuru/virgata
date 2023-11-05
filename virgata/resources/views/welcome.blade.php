@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+<<<<<<< HEAD
         <html>
             <head>
               <!-- Head içerikleri -->
@@ -14,6 +15,8 @@
               <script src="{{ mix('js/app.js') }}"></script>
             </body>
             </html>
+=======
+>>>>>>> 2ef141ec3131092ad637695ca7bbd252f295c6e2
 
         <title>Laravel</title>
 

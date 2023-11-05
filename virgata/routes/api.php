@@ -2,7 +2,10 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+<<<<<<< HEAD
 use App\Http\Controllers\NodeController;
+=======
+>>>>>>> 2ef141ec3131092ad637695ca7bbd252f295c6e2
 
 /*
 |--------------------------------------------------------------------------
@@ -18,6 +21,9 @@ use App\Http\Controllers\NodeController;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+<<<<<<< HEAD
 
 // NodeController ile ilgili tüm resource rotalarını tanımlayın
 Route::apiResource('nodes', NodeController::class);
+=======
+>>>>>>> 2ef141ec3131092ad637695ca7bbd252f295c6e2
